@@ -1,0 +1,8 @@
+
+Write and upload your first source code file to Github.
+PS F:\file> git init
+PS F:\file> git add table.html
+PS F:\file> git commit -m "file added"
+PS F:\file> git branch -M main
+PS F:\file> git remote add origin https://github.com/mgurjar9098-sudo/html_tuto.git
+PS F:\file> git push -u origin main

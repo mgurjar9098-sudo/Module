@@ -1,0 +1,14 @@
+
+Create a Github repository and document how to commit and push code changes.
+
+1. Creating a GitHub Repository
+1.	Open github.com and log in
+2.	Click the “+” icon → New repository
+3.	Enter repository name: htmt_tuto
+4.	Select Public 
+5.	Click Create repository
+
+Then
+git  add  first.html(file name)
+git commit –m “first code”
+git push -u origin main
