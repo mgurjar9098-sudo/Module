@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(c2.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+nav{
+    position: relative;
+}
+.nav{
+    list-style: none;
+    background-color:#5f4c4c;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    position: sticky;
+}
+
+li{
+    margin: 10px;
+    font-size: 20px;
+}
+.im{
+    margin-left: -30px;
+}
+.sign1{
+
+    margin-right: -60px;
+}
+.sign2{
+     margin-right: -60px;
+    
+
+}
+.s1{
+    cursor: pointer;
+    background-color: rgb(92, 206, 244);
+    height: 20px;
+    width: 80px;
+    border-radius: 10px;
+
+}
+
+a:hover{
+    color:white
+}
+.im{
+    margin-top: -2px;
+}
+
+img{
+    height: 40xx;
+    width: 40px;
+}
+
+a{
+    color:black;
+    text-decoration-line: none;
+}
+
+
+/* *********************main **************************** */
+
+section{
+    background-image: url(s1.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* color: white; */
+    width: 300px;
+}
+ul{
+    /* list-style: circle; */
+    margin-left: 10px;
+}
+
+.Coffee1{
+    
+    height: 600px;
+    width: 500px;
+    border-radius: 10px;
+    position: absolute;
+    top: -900px;
+    left: 500px;
+    transition: 1s linear 1s;
+
+
+    
+}
+.Coffee1:hover{
+    transform: scale(1.10);
+}
+.d1{
+  position: relative;
+  
+}
+
+
+/* *******************************footer*********************** */
+
+footer{
+    height: 50px;
+    background-color: bisque;
+}
+
+table{
+   
+    padding:10px 30px 0px 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+

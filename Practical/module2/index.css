@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(c2.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+nav{
+    position: relative;
+}
+ul{
+    list-style: none;
+    background-color:#5f4c4c;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    position: sticky;
+}
+
+li{
+    margin: 10px;
+    font-size: 20px;
+}
+.im{
+    margin-left: -30px;
+}
+.sign1{
+
+    margin-right: -60px;
+}
+.sign2{
+     margin-right: -60px;
+    
+
+}
+.s1{
+    cursor: pointer;
+    background-color: rgb(92, 206, 244);
+    height: 20px;
+    width: 80px;
+    border-radius: 10px;
+
+}
+
+a:hover{
+    color:white
+}
+.im{
+    margin-top: -2px;
+}
+
+img{
+    height: 40xx;
+    width: 40px;
+}
+
+a{
+    color:black;
+    text-decoration-line: none;
+}
+
+/* *************************************************************** */
+
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    font-family: "Story Script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    
+}
+
+.container{
+    height: 700px;
+    /* width: 800px; */
+    background-color: white;
+    margin: 0px 20px 10px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap:10px 20px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* align-items: center; */
+}
+.box{
+    height: 300px;
+    width: 300px;
+    background:#B6AE9F;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+
+}
+.em{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+} 
+
+.txt{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #F2E41B;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+
+/* ******************************************************************* */
+
+
+footer{
+    height: 50px;
+    background-color: bisque;
+}
+
+table{
+   
+    padding:10px 30px 0px 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
