@@ -1,0 +1,50 @@
+1. Operating Systems:
+C is one of the most important languages used to build operating systems.
+How C is used:
+The core parts of operating systems like Linux, Windows, and macOS are written in C.
+C allows direct access to hardware (CPU, memory, disk), which is required for system-level programming.
+
+Real-world examples:
+
+Linux Kernel – almost entirely written in C
+Windows OS – many low-level components use C
+macOS – built using C and C-based languages
+
+Why C is suitable:
+Fast execution speed
+Efficient memory management
+Close interaction with hardware
+
+2. Embedded Systems
+Embedded systems are small computers built into devices to perform specific tasks.
+
+How C is used:
+
+C is used to program microcontrollers that control hardware components.
+It helps in writing firmware that runs devices with limited memory and processing power.
+Real-world examples:
+Washing machines (control timers and motors)
+Automobiles (engine control units, airbags)
+Medical devices (heart monitors, infusion pumps)
+
+Why C is suitable:
+Requires less memory
+High performance
+Can directly control hardware registers
+
+3. Game Development:
+C is widely used in game engines and performance-critical game components.
+
+How C is used:
+Game engines use C for handling graphics, physics, and sound systems.
+Many older and modern games rely on C-based engines.
+
+Real-world examples:
+Unity game engine (core components in C/C++)
+Unreal Engine (uses C/C++)
+Classic games like Doom were written in C
+
+Why C is suitable:
+High speed for real-time performance
+Efficient memory usage
+Better control over system resources
