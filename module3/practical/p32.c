@@ -17,6 +17,9 @@ int main() {
 
     int answer = (rand() % (max - min + 1)) + min;
 
+    //solve this logic ourself
+    // printf("%d",rand());
+
     printf("*** NUMBER GUESSING GAME ***\n");
     printf("I have selected a number between %d and %d.\n", min, max);
     printf("You have %d attempts to guess it.\n", maxAttempts);
